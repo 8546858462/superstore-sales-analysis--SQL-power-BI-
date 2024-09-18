@@ -3,7 +3,7 @@ Introduction
 Business Problem Statement:
 In this Superstore Sales Analysis portfolio project, we delve into the sales data of a superstore to optimize operations and enhance profitability. The primary focus areas include:
 
-1.Overview of Superstore Sales Dataset:
+#1.Overview of Superstore Sales Dataset:
 Total number of orders
 Total sales
 Average profit
